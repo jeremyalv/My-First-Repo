@@ -4,4 +4,4 @@ NPM     : 2106640354
 
 Kelas   : B
 
-Hobi    : Makan
+Hobi    : Bermain
